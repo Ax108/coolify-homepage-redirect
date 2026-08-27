@@ -1,0 +1,1 @@
+# coolify-homepage-redirect
